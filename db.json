@@ -1,7 +1,11 @@
 {
   "staff": {
-    "id": 1,
-    "username": "rh",
-    "password": "rh"
+    "id": 0,
+    "userPic": "https://ipa.org.au/wp-content/uploads/2016/09/andrew-bw-96x96.jpg",
+    "lastName": "Ben Said",
+    "firstName": "Nadir",
+    "email": "bensadinadir@gmail.com",
+    "role": "eval",
+    "password": "nbsnbs"
   }
 }
